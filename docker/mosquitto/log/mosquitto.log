@@ -1,0 +1,477 @@
+1711817891: mosquitto version 2.0.18 starting
+1711817891: Config loaded from /mosquitto/config/mosquitto.conf.
+1711817891: Opening ipv4 listen socket on port 1883.
+1711817891: Opening ipv6 listen socket on port 1883.
+1711817891: mosquitto version 2.0.18 running
+1711817891: New connection from 172.18.0.3:34361 on port 1883.
+1711817891: New client connected from 172.18.0.3:34361 as auto-59B55C1D-3E08-C75D-637C-F3C44FF5E27E (p2, c1, k60).
+1711817918: New connection from 192.168.65.1:60259 on port 1883.
+1711817918: New client connected from 192.168.65.1:60259 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711818284: Client mqtt-explorer-1d06ac2a disconnected.
+1711818299: Client auto-59B55C1D-3E08-C75D-637C-F3C44FF5E27E closed its connection.
+1711818724: New connection from 192.168.65.1:60365 on port 1883.
+1711818724: New client connected from 192.168.65.1:60365 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711819601: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711819603: New connection from 192.168.65.1:60378 on port 1883.
+1711819603: New client connected from 192.168.65.1:60378 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711820562: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711820562: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711820563: New connection from 192.168.65.1:60379 on port 1883.
+1711820563: New client connected from 192.168.65.1:60379 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711820655: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711820657: New connection from 192.168.65.1:60380 on port 1883.
+1711820657: New client connected from 192.168.65.1:60380 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711820931: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711820933: New connection from 192.168.65.1:60381 on port 1883.
+1711820933: New client connected from 192.168.65.1:60381 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711822081: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711822082: New connection from 192.168.65.1:60394 on port 1883.
+1711822082: New client connected from 192.168.65.1:60394 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711823019: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711823019: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711823021: New connection from 192.168.65.1:60395 on port 1883.
+1711823021: New client connected from 192.168.65.1:60395 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711823125: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711823127: New connection from 192.168.65.1:60396 on port 1883.
+1711823127: New client connected from 192.168.65.1:60396 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711824113: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711824115: New connection from 192.168.65.1:60397 on port 1883.
+1711824115: New client connected from 192.168.65.1:60397 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711824222: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711824225: New connection from 192.168.65.1:60398 on port 1883.
+1711824225: New client connected from 192.168.65.1:60398 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711827602: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711827602: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711827605: New connection from 192.168.65.1:60399 on port 1883.
+1711827605: New client connected from 192.168.65.1:60399 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711829403: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711831204: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711833005: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711835597: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711835597: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711835599: New connection from 192.168.65.1:60496 on port 1883.
+1711835599: New client connected from 192.168.65.1:60496 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711836571: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711836573: New connection from 192.168.65.1:60497 on port 1883.
+1711836573: New client connected from 192.168.65.1:60497 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711836668: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711836669: New connection from 192.168.65.1:60498 on port 1883.
+1711836669: New client connected from 192.168.65.1:60498 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711837598: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711837598: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711837600: New connection from 192.168.65.1:60499 on port 1883.
+1711837600: New client connected from 192.168.65.1:60499 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711837705: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711837708: New connection from 192.168.65.1:60500 on port 1883.
+1711837708: New client connected from 192.168.65.1:60500 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711838659: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711838660: New connection from 192.168.65.1:60501 on port 1883.
+1711838660: New client connected from 192.168.65.1:60501 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711838765: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711838767: New connection from 192.168.65.1:60502 on port 1883.
+1711838767: New client connected from 192.168.65.1:60502 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711839854: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711839854: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711839855: New connection from 192.168.65.1:60503 on port 1883.
+1711839855: New client connected from 192.168.65.1:60503 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711839949: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711839950: New connection from 192.168.65.1:60504 on port 1883.
+1711839950: New client connected from 192.168.65.1:60504 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711840878: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711840879: New connection from 192.168.65.1:60505 on port 1883.
+1711840879: New client connected from 192.168.65.1:60505 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711840984: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711840986: New connection from 192.168.65.1:60518 on port 1883.
+1711840986: New client connected from 192.168.65.1:60518 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711841850: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711841850: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711841851: New connection from 192.168.65.1:60519 on port 1883.
+1711841851: New client connected from 192.168.65.1:60519 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711841944: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711841945: New connection from 192.168.65.1:60520 on port 1883.
+1711841945: New client connected from 192.168.65.1:60520 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711842880: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711842882: New connection from 192.168.65.1:60521 on port 1883.
+1711842882: New client connected from 192.168.65.1:60521 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711842973: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711842974: New connection from 192.168.65.1:60522 on port 1883.
+1711842974: New client connected from 192.168.65.1:60522 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711843909: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711843909: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711843911: New connection from 192.168.65.1:60523 on port 1883.
+1711843911: New client connected from 192.168.65.1:60523 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711844016: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711844017: New connection from 192.168.65.1:60524 on port 1883.
+1711844017: New client connected from 192.168.65.1:60524 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711844965: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711844966: New connection from 192.168.65.1:60525 on port 1883.
+1711844966: New client connected from 192.168.65.1:60525 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711845071: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711845072: New connection from 192.168.65.1:60526 on port 1883.
+1711845072: New client connected from 192.168.65.1:60526 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711845512: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711845513: New connection from 192.168.65.1:60527 on port 1883.
+1711845513: New client connected from 192.168.65.1:60527 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711846447: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711846447: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711846449: New connection from 192.168.65.1:60528 on port 1883.
+1711846449: New client connected from 192.168.65.1:60528 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711846556: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711846558: New connection from 192.168.65.1:60529 on port 1883.
+1711846558: New client connected from 192.168.65.1:60529 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711853844: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711853844: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711853846: New connection from 192.168.65.1:60530 on port 1883.
+1711853846: New client connected from 192.168.65.1:60530 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711854796: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711854798: New connection from 192.168.65.1:60531 on port 1883.
+1711854798: New client connected from 192.168.65.1:60531 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711854901: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711854903: New connection from 192.168.65.1:60532 on port 1883.
+1711854903: New client connected from 192.168.65.1:60532 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711857660: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711857660: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711857662: New connection from 192.168.65.1:60533 on port 1883.
+1711857662: New client connected from 192.168.65.1:60533 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711858616: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711858617: New connection from 192.168.65.1:60534 on port 1883.
+1711858617: New client connected from 192.168.65.1:60534 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711858721: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711858723: New connection from 192.168.65.1:60535 on port 1883.
+1711858723: New client connected from 192.168.65.1:60535 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711859680: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711859680: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711859682: New connection from 192.168.65.1:60536 on port 1883.
+1711859682: New client connected from 192.168.65.1:60536 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711859790: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711859791: New connection from 192.168.65.1:60537 on port 1883.
+1711859791: New client connected from 192.168.65.1:60537 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711860737: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711860739: New connection from 192.168.65.1:60538 on port 1883.
+1711860739: New client connected from 192.168.65.1:60538 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711860843: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711860844: New connection from 192.168.65.1:60539 on port 1883.
+1711860844: New client connected from 192.168.65.1:60539 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711861800: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711861800: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711861802: New connection from 192.168.65.1:60540 on port 1883.
+1711861802: New client connected from 192.168.65.1:60540 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711861895: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711861896: New connection from 192.168.65.1:60541 on port 1883.
+1711861896: New client connected from 192.168.65.1:60541 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711862833: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711862834: New connection from 192.168.65.1:60542 on port 1883.
+1711862834: New client connected from 192.168.65.1:60542 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711862941: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711862943: New connection from 192.168.65.1:60543 on port 1883.
+1711862943: New client connected from 192.168.65.1:60543 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711863894: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711863894: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711863896: New connection from 192.168.65.1:60544 on port 1883.
+1711863896: New client connected from 192.168.65.1:60544 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711864000: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711864001: New connection from 192.168.65.1:60545 on port 1883.
+1711864001: New client connected from 192.168.65.1:60545 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711864921: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711864922: New connection from 192.168.65.1:60558 on port 1883.
+1711864922: New client connected from 192.168.65.1:60558 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711865873: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711865873: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711865875: New connection from 192.168.65.1:60559 on port 1883.
+1711865875: New client connected from 192.168.65.1:60559 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711865979: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711865981: New connection from 192.168.65.1:60560 on port 1883.
+1711865981: New client connected from 192.168.65.1:60560 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711866933: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711866935: New connection from 192.168.65.1:60561 on port 1883.
+1711866935: New client connected from 192.168.65.1:60561 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711867040: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711867042: New connection from 192.168.65.1:60562 on port 1883.
+1711867042: New client connected from 192.168.65.1:60562 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711867989: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711867989: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711867991: New connection from 192.168.65.1:60563 on port 1883.
+1711867991: New client connected from 192.168.65.1:60563 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711868096: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711868098: New connection from 192.168.65.1:60564 on port 1883.
+1711868098: New client connected from 192.168.65.1:60564 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711868582: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711868583: New connection from 192.168.65.1:60565 on port 1883.
+1711868583: New client connected from 192.168.65.1:60565 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711869436: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711869437: New connection from 192.168.65.1:60566 on port 1883.
+1711869437: New client connected from 192.168.65.1:60566 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711869547: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711869548: New connection from 192.168.65.1:60567 on port 1883.
+1711869548: New client connected from 192.168.65.1:60567 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711870501: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711870501: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711870503: New connection from 192.168.65.1:60568 on port 1883.
+1711870503: New client connected from 192.168.65.1:60568 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711870610: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711870612: New connection from 192.168.65.1:60569 on port 1883.
+1711870612: New client connected from 192.168.65.1:60569 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711871563: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711871565: New connection from 192.168.65.1:60570 on port 1883.
+1711871565: New client connected from 192.168.65.1:60570 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711871671: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711871673: New connection from 192.168.65.1:60571 on port 1883.
+1711871673: New client connected from 192.168.65.1:60571 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711872243: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711872244: New connection from 192.168.65.1:60572 on port 1883.
+1711872244: New client connected from 192.168.65.1:60572 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711875904: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711875904: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711875905: New connection from 192.168.65.1:60573 on port 1883.
+1711875905: New client connected from 192.168.65.1:60573 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711876013: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711876016: New connection from 192.168.65.1:60574 on port 1883.
+1711876016: New client connected from 192.168.65.1:60574 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711876536: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711876538: New connection from 192.168.65.1:60575 on port 1883.
+1711876538: New client connected from 192.168.65.1:60575 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711876632: New connection from 172.18.0.3:36477 on port 1883.
+1711876632: New client connected from 172.18.0.3:36477 as auto-6E53238B-2AD4-45A1-1043-23EE1CEF59D1 (p2, c1, k60).
+1711876673: Client mqtt-explorer-1d06ac2a disconnected.
+1711877291: Client auto-6E53238B-2AD4-45A1-1043-23EE1CEF59D1 closed its connection.
+1711877293: New connection from 172.18.0.3:60639 on port 1883.
+1711877293: New client connected from 172.18.0.3:60639 as auto-18330546-E589-D356-6EED-648C8FD07034 (p2, c1, k60).
+1711877300: New connection from 192.168.65.1:61518 on port 1883.
+1711877300: New client connected from 192.168.65.1:61518 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711877340: Client mqtt-explorer-1d06ac2a disconnected.
+1711877704: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711877801: Client auto-18330546-E589-D356-6EED-648C8FD07034 closed its connection.
+1711877804: New connection from 172.18.0.3:49123 on port 1883.
+1711877804: New client connected from 172.18.0.3:49123 as auto-2FA79556-BD1A-2E99-A7AB-98029524C253 (p2, c1, k60).
+1711877804: Client auto-2FA79556-BD1A-2E99-A7AB-98029524C253 closed its connection.
+1711877828: New connection from 192.168.65.1:62262 on port 1883.
+1711877828: New client connected from 192.168.65.1:62262 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711877868: New connection from 172.18.0.3:39729 on port 1883.
+1711877868: New client connected from 172.18.0.3:39729 as auto-E0C9EF10-9467-163C-EF0A-EE94058E4CE1 (p2, c1, k60).
+1711877868: Client auto-E0C9EF10-9467-163C-EF0A-EE94058E4CE1 closed its connection.
+1711877877: Client mqtt-explorer-1d06ac2a disconnected.
+1711878005: New connection from 192.168.65.1:62348 on port 1883.
+1711878005: New client connected from 192.168.65.1:62348 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711878010: New connection from 172.18.0.3:50237 on port 1883.
+1711878010: New client connected from 172.18.0.3:50237 as auto-5274F9DD-A0A2-8DE5-70A0-79CE7D1040C8 (p2, c1, k60).
+1711878010: Client auto-5274F9DD-A0A2-8DE5-70A0-79CE7D1040C8 closed its connection.
+1711878055: Client mqtt-explorer-1d06ac2a disconnected.
+1711878093: New connection from 172.18.0.3:55871 on port 1883.
+1711878093: New client connected from 172.18.0.3:55871 as auto-5D4B7A75-DF8F-49CF-DCA2-DDA552A695C1 (p2, c1, k60).
+1711878093: Client auto-5D4B7A75-DF8F-49CF-DCA2-DDA552A695C1 closed its connection.
+1711878096: New connection from 192.168.65.1:62544 on port 1883.
+1711878096: New client connected from 192.168.65.1:62544 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711878202: Client mqtt-explorer-1d06ac2a disconnected.
+1711878604: New connection from 172.18.0.3:51679 on port 1883.
+1711878604: New client connected from 172.18.0.3:51679 as auto-1C0AFF3E-D44C-EB90-49AC-CB7E35E3DB72 (p2, c1, k60).
+1711878604: Client auto-1C0AFF3E-D44C-EB90-49AC-CB7E35E3DB72 closed its connection.
+1711878611: New connection from 192.168.65.1:62620 on port 1883.
+1711878611: New client connected from 192.168.65.1:62620 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711878627: Client mqtt-explorer-1d06ac2a disconnected.
+1711878629: New connection from 192.168.65.1:62621 on port 1883.
+1711878629: New client connected from 192.168.65.1:62621 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711878634: New connection from 172.18.0.3:47849 on port 1883.
+1711878634: New client connected from 172.18.0.3:47849 as auto-77CA438F-B96B-425D-BE2B-3AB964061DDB (p2, c1, k60).
+1711878634: Client auto-77CA438F-B96B-425D-BE2B-3AB964061DDB closed its connection.
+1711878747: Client mqtt-explorer-1d06ac2a disconnected.
+1711878834: New connection from 172.18.0.3:58151 on port 1883.
+1711878834: New client connected from 172.18.0.3:58151 as auto-23EAFFFB-43FE-CD88-5AC0-BA6C8129A353 (p2, c1, k60).
+1711878834: Client auto-23EAFFFB-43FE-CD88-5AC0-BA6C8129A353 closed its connection.
+1711878836: New connection from 192.168.65.1:62778 on port 1883.
+1711878836: New client connected from 192.168.65.1:62778 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711878860: Client mqtt-explorer-1d06ac2a disconnected.
+1711878861: New connection from 192.168.65.1:62779 on port 1883.
+1711878861: New client connected from 192.168.65.1:62779 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711878881: New connection from 172.18.0.3:44629 on port 1883.
+1711878881: New client connected from 172.18.0.3:44629 as auto-E4AAC29E-1E8E-DFE2-193F-3701EC6BC09A (p2, c1, k60).
+1711878881: Client auto-E4AAC29E-1E8E-DFE2-193F-3701EC6BC09A closed its connection.
+1711879015: mosquitto version 2.0.18 terminating
+1711879015: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711879056: mosquitto version 2.0.18 starting
+1711879056: Config loaded from /mosquitto/config/mosquitto.conf.
+1711879056: Opening ipv4 listen socket on port 1883.
+1711879056: Opening ipv6 listen socket on port 1883.
+1711879056: mosquitto version 2.0.18 running
+1711879056: New connection from 192.168.65.1:62943 on port 1883.
+1711879056: New client connected from 192.168.65.1:62943 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711879056: New connection from 172.18.0.3:50659 on port 1883.
+1711879056: New client connected from 172.18.0.3:50659 as auto-17123F22-1C64-0BC9-121A-E7B853EF8677 (p2, c1, k60).
+1711879153: Client mqtt-explorer-1d06ac2a disconnected.
+1711879221: mosquitto version 2.0.18 starting
+1711879221: Config loaded from /mosquitto/config/mosquitto.conf.
+1711879221: Opening ipv4 listen socket on port 1883.
+1711879221: Opening ipv6 listen socket on port 1883.
+1711879221: mosquitto version 2.0.18 running
+1711879221: New connection from 192.168.65.1:63093 on port 1883.
+1711879221: New client connected from 192.168.65.1:63093 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711879222: New connection from 172.18.0.3:60497 on port 1883.
+1711879222: New client connected from 172.18.0.3:60497 as auto-21372F5A-D72E-2A69-0CF8-D8A8DEA7B3E1 (p2, c1, k60).
+1711879292: Client mqtt-explorer-1d06ac2a disconnected.
+1711879497: New connection from 192.168.65.1:63204 on port 1883.
+1711879497: New client connected from 192.168.65.1:63204 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711879522: Client mqtt-explorer-1d06ac2a disconnected.
+1711879624: New connection from 192.168.65.1:63325 on port 1883.
+1711879624: New client connected from 192.168.65.1:63325 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711879631: Client auto-21372F5A-D72E-2A69-0CF8-D8A8DEA7B3E1 closed its connection.
+1711879633: New connection from 172.18.0.3:40919 on port 1883.
+1711879633: New client connected from 172.18.0.3:40919 as auto-2B727A2C-D3D6-25E7-B3CC-C5D68B75036B (p2, c1, k60).
+1711879633: Client auto-2B727A2C-D3D6-25E7-B3CC-C5D68B75036B closed its connection.
+1711879700: Client mqtt-explorer-1d06ac2a disconnected.
+1711879703: New connection from 192.168.65.1:63478 on port 1883.
+1711879703: New client connected from 192.168.65.1:63478 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711879706: New connection from 172.18.0.3:41745 on port 1883.
+1711879706: New client connected from 172.18.0.3:41745 as auto-B0A36F35-2CDA-C442-1388-C56AAA360DAC (p2, c1, k60).
+1711879707: Client auto-B0A36F35-2CDA-C442-1388-C56AAA360DAC closed its connection.
+1711879762: Client mqtt-explorer-1d06ac2a disconnected.
+1711879787: New connection from 192.168.65.1:63567 on port 1883.
+1711879787: New client connected from 192.168.65.1:63567 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711879795: New connection from 172.18.0.3:60985 on port 1883.
+1711879795: New client connected from 172.18.0.3:60985 as auto-D3FEE5CE-48D1-E1B0-56E5-35CE6F1B9DEA (p2, c1, k60).
+1711879856: Client auto-D3FEE5CE-48D1-E1B0-56E5-35CE6F1B9DEA closed its connection.
+1711879860: mosquitto version 2.0.18 terminating
+1711879860: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711879884: mosquitto version 2.0.18 starting
+1711879884: Config loaded from /mosquitto/config/mosquitto.conf.
+1711879884: Opening ipv4 listen socket on port 1883.
+1711879884: Opening ipv6 listen socket on port 1883.
+1711879884: mosquitto version 2.0.18 running
+1711879885: New connection from 192.168.65.1:63664 on port 1883.
+1711879885: New client connected from 192.168.65.1:63664 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711879887: New connection from 172.18.0.3:37607 on port 1883.
+1711879887: New client connected from 172.18.0.3:37607 as auto-DEA0E75A-19A0-770F-D950-CD15A1A05992 (p2, c1, k60).
+1711879893: Client mqtt-explorer-1d06ac2a disconnected.
+1711879898: New connection from 192.168.65.1:63677 on port 1883.
+1711879898: New client connected from 192.168.65.1:63677 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711879950: Client mqtt-explorer-1d06ac2a disconnected.
+1711879976: Client auto-DEA0E75A-19A0-770F-D950-CD15A1A05992 closed its connection.
+1711879979: mosquitto version 2.0.18 terminating
+1711879979: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711880901: mosquitto version 2.0.18 starting
+1711880901: Config loaded from /mosquitto/config/mosquitto.conf.
+1711880901: Opening ipv4 listen socket on port 1883.
+1711880901: Opening ipv6 listen socket on port 1883.
+1711880901: mosquitto version 2.0.18 running
+1711880901: New connection from 192.168.65.1:21790 on port 1883.
+1711880901: New client connected from 192.168.65.1:21790 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711880901: New connection from 172.18.0.3:57695 on port 1883.
+1711880901: New client connected from 172.18.0.3:57695 as auto-1BD03E14-8DFA-3289-9AA0-ADCF9E1FB9BC (p2, c1, k60).
+1711880901: Client auto-1BD03E14-8DFA-3289-9AA0-ADCF9E1FB9BC closed its connection.
+1711881233: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711881237: New connection from 192.168.65.1:21942 on port 1883.
+1711881237: New client connected from 192.168.65.1:21942 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711882224: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711882226: New connection from 192.168.65.1:22030 on port 1883.
+1711882226: New client connected from 192.168.65.1:22030 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711883199: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711883199: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711883201: New connection from 192.168.65.1:22091 on port 1883.
+1711883201: New client connected from 192.168.65.1:22091 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711884173: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711884175: New connection from 192.168.65.1:22152 on port 1883.
+1711884175: New client connected from 192.168.65.1:22152 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711885148: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711885148: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711885150: New connection from 192.168.65.1:22213 on port 1883.
+1711885150: New client connected from 192.168.65.1:22213 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711886039: Client mqtt-explorer-1d06ac2a has exceeded timeout, disconnecting.
+1711886040: New connection from 192.168.65.1:22274 on port 1883.
+1711886040: New client connected from 192.168.65.1:22274 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711886148: New connection from 172.18.0.3:34083 on port 1883.
+1711886148: New client connected from 172.18.0.3:34083 as auto-780F1511-A9A6-B007-C1CF-37106CF42138 (p2, c1, k60).
+1711886148: Client auto-780F1511-A9A6-B007-C1CF-37106CF42138 closed its connection.
+1711886210: New connection from 172.18.0.3:45189 on port 1883.
+1711886210: New client connected from 172.18.0.3:45189 as auto-C71C73F2-AC1B-0B83-B79F-C6E3082204C9 (p2, c1, k60).
+1711886949: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711887103: Client auto-C71C73F2-AC1B-0B83-B79F-C6E3082204C9 closed its connection.
+1711887106: Client mqtt-explorer-1d06ac2a disconnected.
+1711887109: New connection from 172.18.0.3:51975 on port 1883.
+1711887109: New client connected from 172.18.0.3:51975 as auto-FB9327D4-859D-D12B-BB04-21CBECC4BF03 (p2, c1, k60).
+1711887109: Client auto-FB9327D4-859D-D12B-BB04-21CBECC4BF03 closed its connection.
+1711887109: New connection from 192.168.65.1:23857 on port 1883.
+1711887109: New client connected from 192.168.65.1:23857 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711887222: New connection from 172.18.0.3:58253 on port 1883.
+1711887222: New client connected from 172.18.0.3:58253 as auto-407E55D3-189F-D7D9-45F2-6CA4A483808B (p2, c1, k60).
+1711887222: Client auto-407E55D3-189F-D7D9-45F2-6CA4A483808B closed its connection.
+1711887322: Client mqtt-explorer-1d06ac2a disconnected.
+1711889597: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711891547: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711893496: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711897890: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711899905: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711901854: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711903803: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711906147: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711908097: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711909898: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711911423: New connection from 172.18.0.3:56069 on port 1883.
+1711911423: New client connected from 172.18.0.3:56069 as auto-FBC2E9E4-ABD4-3F9A-F482-C82E60ED08AF (p2, c1, k60).
+1711911423: Client auto-FBC2E9E4-ABD4-3F9A-F482-C82E60ED08AF closed its connection.
+1711911699: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711912019: New connection from 172.18.0.3:58651 on port 1883.
+1711912019: New client connected from 172.18.0.3:58651 as auto-02FFC2CA-4F76-FCA8-C780-0593063B1048 (p2, c1, k60).
+1711912019: Client auto-02FFC2CA-4F76-FCA8-C780-0593063B1048 closed its connection.
+1711912084: New connection from 192.168.65.1:29441 on port 1883.
+1711912084: New client connected from 192.168.65.1:29441 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711912084: New connection from 172.18.0.3:45419 on port 1883.
+1711912084: New client connected from 172.18.0.3:45419 as auto-A9EB8C44-408C-DBE6-6CB7-70A53FF17F7C (p2, c1, k60).
+1711912325: Client mqtt-explorer-1d06ac2a disconnected.
+1711912358: Client auto-A9EB8C44-408C-DBE6-6CB7-70A53FF17F7C closed its connection.
+1711912361: New connection from 172.18.0.3:35491 on port 1883.
+1711912361: New client connected from 172.18.0.3:35491 as auto-EFB4FE8E-DCA1-5C82-4C06-364013E58922 (p2, c1, k60).
+1711912361: Client auto-EFB4FE8E-DCA1-5C82-4C06-364013E58922 closed its connection.
+1711912363: New connection from 192.168.65.1:29909 on port 1883.
+1711912363: New client connected from 192.168.65.1:29909 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711912370: Client mqtt-explorer-1d06ac2a disconnected.
+1711912554: New connection from 192.168.65.1:30256 on port 1883.
+1711912554: New client connected from 192.168.65.1:30256 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711912555: New connection from 172.18.0.3:52791 on port 1883.
+1711912555: New client connected from 172.18.0.3:52791 as auto-DC97DBE5-755A-361F-6F63-81FEB754D3F7 (p2, c1, k60).
+1711912555: Client auto-DC97DBE5-755A-361F-6F63-81FEB754D3F7 closed its connection.
+1711912589: Client mqtt-explorer-1d06ac2a disconnected.
+1711913157: New connection from 192.168.65.1:31125 on port 1883.
+1711913158: New client connected from 192.168.65.1:31125 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711913158: New connection from 172.18.0.3:35377 on port 1883.
+1711913158: New client connected from 172.18.0.3:35377 as auto-DCA59093-8809-ACBA-7DD5-C3844C9DAE1A (p2, c1, k60).
+1711913387: Client auto-DCA59093-8809-ACBA-7DD5-C3844C9DAE1A closed its connection.
+1711913393: Client mqtt-explorer-1d06ac2a disconnected.
+1711913397: New connection from 192.168.65.1:31555 on port 1883.
+1711913397: New client connected from 192.168.65.1:31555 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711913414: Client mqtt-explorer-1d06ac2a disconnected.
+1711913414: New connection from 172.18.0.3:54903 on port 1883.
+1711913414: New client connected from 172.18.0.3:54903 as auto-773CBC13-68DB-F70D-5CA5-82C2E11D8B7E (p2, c1, k60).
+1711913470: New connection from 192.168.65.1:31652 on port 1883.
+1711913470: New client connected from 192.168.65.1:31652 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711913500: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711913935: Client mqtt-explorer-1d06ac2a disconnected.
+1711913936: New connection from 192.168.65.1:32377 on port 1883.
+1711913936: New client connected from 192.168.65.1:32377 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711913938: Client auto-773CBC13-68DB-F70D-5CA5-82C2E11D8B7E closed its connection.
+1711913943: New connection from 172.18.0.3:48847 on port 1883.
+1711913943: New client connected from 172.18.0.3:48847 as auto-D65A245C-F596-E08D-31B9-9C5B636F89E0 (p2, c1, k60).
+1711913943: Client auto-D65A245C-F596-E08D-31B9-9C5B636F89E0 closed its connection.
+1711914017: Client mqtt-explorer-1d06ac2a disconnected.
+1711915301: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711917102: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711918903: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711920704: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711922505: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711924306: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711924870: New connection from 192.168.65.1:45622 on port 1883.
+1711924870: New client connected from 192.168.65.1:45622 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711924871: New connection from 172.18.0.3:45369 on port 1883.
+1711924871: New client connected from 172.18.0.3:45369 as auto-6E67CDA9-021B-2461-A12D-D932DDCF58D5 (p2, c1, k60).
+1711924871: Client auto-6E67CDA9-021B-2461-A12D-D932DDCF58D5 closed its connection.
+1711924975: Client mqtt-explorer-1d06ac2a disconnected.
+1711924978: New connection from 192.168.65.1:45860 on port 1883.
+1711924978: New client connected from 192.168.65.1:45860 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711924980: New connection from 172.18.0.3:43791 on port 1883.
+1711924980: New client connected from 172.18.0.3:43791 as auto-8D8619CD-3E87-DC75-3251-60E191F0B333 (p2, c1, k60).
+1711924980: Client auto-8D8619CD-3E87-DC75-3251-60E191F0B333 closed its connection.
+1711925070: Client mqtt-explorer-1d06ac2a disconnected.
+1711925073: New connection from 192.168.65.1:46105 on port 1883.
+1711925073: New client connected from 192.168.65.1:46105 as mqtt-explorer-1d06ac2a (p2, c1, k60).
+1711925076: New connection from 172.18.0.3:55985 on port 1883.
+1711925076: New client connected from 172.18.0.3:55985 as auto-89E76B9C-FE5D-8194-C6A1-E83DCC901BD5 (p2, c1, k60).
+1711925076: Client auto-89E76B9C-FE5D-8194-C6A1-E83DCC901BD5 closed its connection.
+1711925283: Client mqtt-explorer-1d06ac2a disconnected.
+1711926107: Saving in-memory database to /mosquitto/data//mosquitto.db.
